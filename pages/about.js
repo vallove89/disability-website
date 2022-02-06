@@ -11,7 +11,7 @@ export default function About() {
                 </p>
 
                 <p className="my-3">
-                Unfortanty ADA laws aren't always followed or abused by individuals of society, leaving people with disablilities unsafe and feeling ostracized. Our mission is to bring awarness of commonly abused ADA principle, by share pictures and stories of visitors of this site.  
+                Unfortanty ADA laws are not always followed or abused by individuals of society, leaving people with disablilities unsafe and feeling ostracized. Our mission is to bring awarness of commonly abused ADA principle, by share pictures and stories of visitors of this site.  
                 </p>
 
             </div>
