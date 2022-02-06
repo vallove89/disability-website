@@ -11,7 +11,7 @@ function Footer() {
                 <div className="row-span-2 sm:col-span-4 col-start-1 col-end-4 sm:col-end-5 flex flex-col items-start ">
 
                 <p className="mb-4 text-white">
-                    When business do not follow the American Disablilities Act (ADA) rule & guidelines or individuals violate them, people living with a disability may feel ostracized and put in unsafe scenarios. <strong className="font-medium">www.ADAethics.com</strong> mission is to bring awareness of fact many rules and guideline esablished by ADA are not followed. Submit story or topic you want us cover, here. 
+                Have a picture or storie that demonstrates abuses of ADA laws and principle. Please, share by submiting below.
                     <Link href="/submit">
                         <a className="px-3 py-2 flex items-center text-md uppercase font-bold leading-snug text-white hover:opacity-75">
                             <i className="fab fa-facebook-square text-lg leading-lg text-white opacity-75"></i><span className="ml-2"><ButtonOutline>Submit</ButtonOutline></span>

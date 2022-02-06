@@ -41,9 +41,12 @@ const FormSubmit = () => {
             <div className='max-w-md w-full space-y-8'>
                 <div>
                     <Image className="mx-auto h-12 w-auto" src="/vercel.ico" alt="Workflow" width={50} height={50}/>
-                    <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">
+                    <h2 className="mt-6 text-center text-3xl font-extrabold text-blue-900">
                         Tell us our story!
                     </h2>
+                    <p className='mt-4 text-center text-blue-900'>
+                        Have a picture or storie that demonstrates abuses of ADA laws and principle. Please, share by submiting below.
+                    </p>
                 </div>
             
                 <form className='mt-8 space-y-6'

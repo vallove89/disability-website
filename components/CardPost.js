@@ -18,7 +18,7 @@ const CardPost = ({ post }) => {
             <div className="border-r border-b border-l border-blue-900 lg:border-l-0 lg:border-t lg:border-blue-900 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal w-full">
                 <div className="mb-8">
                     <div className="text-blue-900 font-bold text-xl mb-2">{post.frontMatter.title}</div>
-                    <p className="text-blue-700 text-base">{post.frontMatter.description}</p>
+                    <p className="text-blue-900 text-base">{post.frontMatter.description}</p>
                 </div>
             </div>
         </div>

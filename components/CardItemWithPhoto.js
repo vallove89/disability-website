@@ -13,7 +13,7 @@ const CardItemWithPhoto = ({ title, description, url }) => {
                 layout="intrinsic"
             />
             <div className="px-6 py-4">
-                <h4 className="font-bold text-xl mb-2 text-blue-500">{title}</h4>
+                <h4 className="font-bold text-xl mb-2 text-blue-900">{title}</h4>
                 <p className="text-gray-700 text-base text-blue-900">
                     {description}
                 </p>
